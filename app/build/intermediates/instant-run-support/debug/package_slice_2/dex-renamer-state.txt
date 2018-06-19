@@ -1,0 +1,4 @@
+#Tue Jun 19 11:10:42 CST 2018
+base.0=H\:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

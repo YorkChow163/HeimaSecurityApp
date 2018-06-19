@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_gridview_item.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_taskmanager.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_apps.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_trojan.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_safe.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher_bg.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_callmsgsafe.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_confirm_psd.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_settings.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_safe.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_sysoptimize.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher_bg.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_item_view.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\setting_item_view.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_item_view.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\setting_item_view.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_trojan.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_sysoptimize.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_sysoptimize.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_set_psd.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_netmanager.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_confirm_psd.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_confirm_psd.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_apps.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_tools.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_taskmanager.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_gridview_item.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_tools.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_netmanager.png.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\drawable-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_settings.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_callmsgsafe.png.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\drawable-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "H:\\MyAPP\\HeimaSecurityApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "H:\\MyAPP\\HeimaSecurityApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\MyAPP\\mobilesafe74\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_set_psd.xml.flat",
+        "source": "H:\\MyAPP\\mobilesafe74\\app\\src\\main\\res\\layout\\dialog_set_psd.xml"
+    }
+]
