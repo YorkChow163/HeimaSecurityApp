@@ -23,6 +23,9 @@ import com.itheima.mobilesafe74.utils.ConstantValue;
 import com.itheima.mobilesafe74.utils.SpUtil;
 import com.itheima.mobilesafe74.utils.ToastUtil;
 
+/**
+ * 周宇 测试初始化，以及git版本控制
+ */
 public class HomeActivity extends Activity {
 	private GridView gv_home;
 	private String[] mTitleStrs;
